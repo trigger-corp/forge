@@ -7,32 +7,30 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- Please do not submit support requests or "How to" questions here! Instead use the community forum: https://community.trigger.io/ -->
+
+<!-- Please check whether someone else has already filed an issue describing your problem before creating a new one. -->
+
+**Device information:**
+ - Hardware: 
+ - Operating System and Version:
+ - Forge Platform version:
+
+**App information:**
+<!-- Please drag your app's `src/config.json` and any relevant log files into this issue -->
+
+**Expected behaviour**
+<!-- A clear and concise description of what you expected to happen instead of the bug. --> 
+
+**Actual behaviour**
+<!-- A clear and concise description of what actually happens. Please attach screenshot(s) if it would help us to understand the problem. -->
 
 **To Reproduce**
-Steps to reproduce the behavior:
+<!-- Steps to reproduce the behaviour -->
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Related information:**
+<!-- Please provide any code snippets or sample applications that demonstrate or reproduce  the issue -->
